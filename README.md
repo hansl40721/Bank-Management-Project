@@ -1,1 +1,2 @@
-# Bank-Management-Project
+# Bank Management Project
+This is a project I worked on as part of an instructor guided course that simulates the creation and applications of a bank, like creating new branches, accounts of different types, and the ability to add or withdraw money from those accounts. It also reads data from a text file that contains bank accounts and information, creates the necessary objects to process them, and then prints them out as a list.
